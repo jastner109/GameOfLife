@@ -1,4 +1,4 @@
-Conways's Game Of Life
+@Conways's Game Of Life
 Author: Digvijay Singh
 
 Some notes:
