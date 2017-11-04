@@ -1,9 +1,9 @@
-# Conways's Game Of Life
-# Author: Digvijay Singh
+Conways's Game Of Life
+Author: Digvijay Singh
 
-# Some notes:
-# Code in python2.
-# All imported modules in native python.
+Some notes:
+Code in python2.
+All imported modules in native python.
 Use anaconda to run it, color scheme is much better.
 Results stored as gif files in "gifs" subfolder. Some examples have been provided.
 Gifs file name format: -gridsize-number_of_seeds-epochs-timestamp
